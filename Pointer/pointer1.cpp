@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int num = 30;
+    int num = 300;
     cout << "value of num is     " << num << endl;
 
     int *ptr = &num;
